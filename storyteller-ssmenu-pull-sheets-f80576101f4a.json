@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "storyteller-ssmenu-pull-sheets",
+  "private_key_id": "f80576101f4ac728dada03fd8174ff9526b86481",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCL+xjxavGs6sp/\nSexCwILU8k1YyEfZ2u/weoxXl3c6sBdiZopCLmxLJqPiUvED1gnzgeN1fDP7vdE7\naucvh5g2CP3V+0Sb8BvorvSRiR1uzkmf8VIaUWFbmJRFvk4cmsoHcqZfKZRoiw0M\n8iWJM/uEhlc/jyRWM7QRzyv08z65yZh12wdmGmygqut2uAkLgF96EuAjYtAL8c6d\nDwGDe6PhjEHelOO9+Lp1qNR11tJ7rS+07Zm8jK3lXvutH1LsN8xLHJldrhpFwBb1\n4ev+Cl0egiK/L6IU7d7PLX5ro2z/ek1VfUK4XhtBpSWDIhxJ9GNg4n/5pvXmJea3\ny40n+GN1AgMBAAECggEAEjM2ngUCoTHx3DT3VAKFwDw01EtOFEREGCdG4giehvHo\nSHH+nfY9PFQs0Ltp/M6ygoer1FWuyJd4gdo3btWZc8Udg9nkpMXGSy2cPOPwAL0v\nk20j+KoGF4uyE5NXwp5ZkDhW616TnjgeHUXKnZk1pZh19Zyd49tbGUmvdGzABhW/\n0XQj7Sw0SgHFW/9bzIbprtOq4Iw+qfULHaxwZcfBr6X++vhRiDTI0/SEt54qkRZt\nNMtIXFpa1cFFcMfSNbCgLZWWey3SiazwsEgYiWxhG1ZcANcLWGqOrUW0/zf+Ke8a\n8hZH4fDGtKmBvIPPxPCXAXMEaH8d1itSZsppfRZTzQKBgQDBLy2BvmtYX2r9rPsm\nAdRfDyhoQJ+/QTtPS3Z39QUKanNYE07RlKPJdgQLR5WEEpjXDkrZz90iAmDd/cla\n7fUSW3oPEuffrzaq/hxbDOVsCwCpAR/Kr5ApmWl/sxdM9P7wGGSbDCGFHxy+DmAj\nzS8H3wLBxHaR/Vw3F4CEi+/WHwKBgQC5fziFhoMU6NSDOyFUASXxCxEc8Bj7wWDP\nsYIArA0pwGmuXoHusceOWAVio22OATg1lWf66SYuqJ113FzwaCstHcI0OYUxf/1o\nkPg5j2Kx7vV+NoEo3CFwHYJP3tKvh9ChjTcesrx979Aqd6AaafP02Qd+pobvc9Lz\nypHeHPSL6wKBgGbnmJgKNOgoO7fRUx8VzmisjFusQOwB9XPxwLN5gyvfNH3wGwYs\n5WpFQTY49X4a4et8o4aO4T5igfL+Yynao7cZn1U0Puu6S6aeIcCmh/cbjUh5XtP6\n3RIrtDTf00OdJcgDVmP4/EoLHqZmxfOMMsdAlhlda8OscFiwXjc8y48FAoGBALZS\n9ZtIu06yCy9xzzBicIib+BYZaHULfbynHMDMW6POHBHnko6q7xpaKfDp8aTCTh1c\n3PcicwUpdpuCHVevC8EsntX2M5ST2OAOnez1omyCE4oayJkAxV0NpCgdO7iMJeSk\niKkDxYGDVXhoXFWaDs97AoLZ64cwsQgu83D9xOBBAoGAIhir+ozVX/6gvloLnOeQ\n2j+ctRa+XaYickwcy2ApOSaWHDaeBv+PHQz4CubD1FdenZUolhqK7xn5lhdtZsF5\ndywbz89zvowzAWPQKIXp2JzQRJl4SDV+SErzIHi373eGdy6M0haK2RrP0V4N65Rn\nAtkeUejkaXqg++TjYUYKpm4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheetsapi1@storyteller-ssmenu-pull-sheets.iam.gserviceaccount.com",
+  "client_id": "103978999030276074568",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheetsapi1%40storyteller-ssmenu-pull-sheets.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
